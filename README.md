@@ -4,8 +4,6 @@ Algorithms are always a fun part!<br>
 This project focuses on the Fibonacci algorithm, implemented in both JavaScript and C++.
 
 <br>
-<br>
-<br>
 
 # Set up instruction
 
