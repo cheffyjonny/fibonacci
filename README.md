@@ -1,6 +1,7 @@
 # Introduction
 
-Algorithms are always a fun part! This project focuses on the Fibonacci algorithm, implemented in both JavaScript and C++.
+Algorithms are always a fun part!<br>
+This project focuses on the Fibonacci algorithm, implemented in both JavaScript and C++.
 
 # Logic
 
